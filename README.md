@@ -251,8 +251,11 @@ fab.toggleMenu();
 🔧 Requirements
 
 · Minimum SDK: API 21 (Android 5.0)
+
 · Target SDK: API 34 (Android 14)
+
 · Language: Java 17
+
 · Dependencies: None! ✅
 
 
@@ -280,6 +283,7 @@ fab.toggleMenu();
 CodeBloom
 
 · 🐙 GitHub: @codebloomir-dev
+
 · 📧 Email: codebloomir@gmail.com
 
 ---
